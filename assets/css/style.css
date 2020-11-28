@@ -589,6 +589,7 @@ aside .box{
 }
 
 .blog:hover{
+    width: 96%;
     background-color: #333;
     border: 10px solid #37bcf9;
     border-radius: 240px;

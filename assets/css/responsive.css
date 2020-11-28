@@ -30,6 +30,10 @@
         width: 97%;
     }
 
+    .blog:hover{
+        width: 95%;
+    }
+
     footer .wrap > div{
         width: 25%;
         margin: 4.1%
@@ -55,6 +59,10 @@
 
     .articles{
         width: 61%;
+    }
+
+    .blog:hover{
+        width: 94%;
     }
 
     footer .browsers img{
@@ -340,6 +348,10 @@
     .card .category {
         font-size: 100%;
     }
+
+    .blog:hover{
+        width: 93%;
+    }
 }
 
 @media (max-width: 401px){
@@ -358,6 +370,10 @@
         width: 85%;
     }
 
+    .blog:hover{
+        width: 91%;
+    }
+
     footer {
         padding-bottom: 10%;
     }
@@ -370,5 +386,9 @@
 
     aside input[type="button"] {
         padding-left: 3%;
+    }
+
+    .blog:hover{
+        width: 90%;
     }
 }
